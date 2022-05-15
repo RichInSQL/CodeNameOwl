@@ -83,11 +83,11 @@ params:
         Content: >
             
 
-            - I am Rich, a guy from the shropshire country side. This is my blog where I plan to document my journey through my struggles with Anxiety and undiagnosed ADHD.
+            - I am Rich, a guy from the shropshire countryside. This is my blog where I plan to document my journey through my struggles with Anxiety and undiagnosed ADHD.
 
     socialIcons:
-        #- name: instagram
-          #url: "https://github.com/adityatelange/hugo-PaperMod"
+        - name: instagram
+          url: "https://instagram.com/code_name_owl"
         #- name: twitter
           #url: "https://ko-fi.com/adityatelange"
         - name: RsS

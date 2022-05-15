@@ -12,7 +12,7 @@ draft: false
 hidemeta: true
 comments: false
 #description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://codenameowl.com/about"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: true
@@ -22,3 +22,7 @@ ShowReadingTime: false
 ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
+
+Hey, I am Rich, just a guy from a small town in the Shropshire countryside.  
+
+![](/img/me.jpg)

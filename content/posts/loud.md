@@ -1,6 +1,6 @@
 ---
 title: "It's Too Loud"
-date: 2022-06-30T07:00:00+00:00
+date: 2022-06-30T06:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
 #tags: [""]

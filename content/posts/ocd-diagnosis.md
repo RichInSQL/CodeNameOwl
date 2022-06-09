@@ -41,4 +41,4 @@ Looking back over the years a lot of what I have experianced in my life makes ac
 
 were EVERYWHERE - I dont know for sure but it looks like it bought up a lot of old obsessions which then just feed anxiety. 
 
-I know this is only the beginning and I don't think there will ever be a time when I am 100% better, there will still, like anything be ups and downs but knowing what I am aiming at now has given me a clearer picture on what might be "wrong" with me. 
+I know this is only the beginning and I don't think there will ever be a time when I am 100% better, there will still, like anything be ups and downs but knowing what I am aiming at now has given me a clearer picture on what might be "wrong" with me.

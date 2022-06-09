@@ -1,6 +1,6 @@
 ---
-title: "So I might have OCD"
-date: 2022-05-30T06:00:00+00:00
+title: "So I have OCD"
+date: 2022-06-09T20:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
 #tags: [""]
@@ -22,9 +22,9 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "/img/loud.png" # image path/url
-    alt: "Loud" # alt text
-    caption: "Loud" # display caption under cover
+    image: "/img/ocd.png" # image path/url
+    alt: "OCD Diagnosis" # alt text
+    caption: "OCD Diagnosis" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
@@ -37,7 +37,7 @@ I have to say I felt a sense of relif knowing that I might have an answer to som
 
 Looking back over the years a lot of what I have experianced in my life makes actual sense now, as a child I would obsessivly worry about washing my hands, I wouldn't eat anything until my hands were washed, during the pandemic this was for good reason forced down our throats posters like this 
 
-![](https://www.northlincs.gov.uk/wp-content/uploads/2020/09/Hands-face-Space-graphic.jpg)
+![](/img/Hands-face-Space-graphic.jpg)
 
 were EVERYWHERE - I dont know for sure but it looks like it bought up a lot of old obsessions which then just feed anxiety. 
 

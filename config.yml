@@ -12,6 +12,9 @@ enableEmoji: true
 pygmentsUseClasses: true
 # googleAnalytics: UA-123-45
 
+permalinks:
+  posts: /:year/:month/:title/
+
 minify:
     disableXML: true
     minifyOutput: true

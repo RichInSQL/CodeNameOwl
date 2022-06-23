@@ -33,8 +33,6 @@ So, you have heard about Actual Budget going open source? You want to host a cop
 
 Lets' get started.
 
-{{< toc >}}
-
 ## Pre-requisites
 
 There are some things we need to do before we get started though.

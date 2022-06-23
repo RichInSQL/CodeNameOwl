@@ -31,6 +31,8 @@ ShowPostNavLinks: false
 
 So, you have heard about Actual Budget going open source? You want to host a copy of Actual yourself, but have no idea where to start? Lets see if we can help out, in this guide, we are going to use [fly.io](https://fly.io) to host an always on copy of your budget which will be accessible from anywhere - it is incredibly easy and best of all free.
 
+**Last Updated:** 23/06/2022
+
 Lets' get started.
 
 ## Pre-requisites

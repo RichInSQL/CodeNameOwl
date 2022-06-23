@@ -322,6 +322,48 @@ If everything went well you should then be taken to your very first budget.
 
 Actual is now up and running. Congratulations
 
+## Exporting Data From Actual
+
+You can export your data from Actual at any time, to do this, login to your budget and click the three dots
+
+![](/img/actual-config-4.png)
+
+Select Settings
+
+![](/img/actual-config-5.png)
+
+Scroll down to the Export section and click Export Data
+
+![](/img/actual-config-6.png)
+
+Save the file somewhere on your computer - that is it done.
+
+## Importing Data Into Actual
+
+If you previously followed the above steps and have an Actual zip export, you can now import that using the web version of Actual. 
+
+To do this, login to your budget, then in the top right corner click Server
+
+![](/img/actual-config-7.png)
+
+Then select Logout 
+
+![](/img/actual-config-8.png)
+
+Log back into your instance of Actual
+
+![](/img/actual-config-9.png)
+
+From the next screen select Import File
+
+![](/img/actual-config-10.png)
+
+Select Actual and then locate your Zip file, this will then import what you previously exported into Actual. 
+
+![](/img/actual-config-11.png)
+
+That is it - be careful tho, importing might not create a new file (I haven't tested that bit)
+
 ## Updating Actual
 
 Whenever you want to update Actual, update the versions of @actual-app/api and @actual-app/web in package.json and run 

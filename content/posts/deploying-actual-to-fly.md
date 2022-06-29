@@ -362,10 +362,44 @@ Select Actual and then locate your Zip file, this will then import what you prev
 
 ![](/img/actual-config-11.png)
 
-That is it - be careful tho, importing might not create a new file (I haven't tested that bit)
+That is it - be careful though, importing might not create a new file (I haven't tested that bit)
 
 ## Updating Actual
 
-Whenever you want to update Actual, update the versions of @actual-app/api and @actual-app/web in package.json and run 
+**IMPORTANT:** Before starting this step, backup your budget, you can find out how to do that [here](http://www.codenameowl.com/2022/06/deploying-actual-budget-to-fly.io/#exporting-data-from-actual) failure to do this may result in budget loss.
+
+This section focuses on updating the actual-server
+
+Press the start menu or windows key on your keyboard and type **cmd**
+
+![](/img/windows-start-1.png)
+
+when command prompt appears in the search results, **right click** it and run it as **Administrator**
+
+![](/img/windows-start-2.png)
+
+Navigate to the C:\ using this command
+
+    cd C:\
+
+![](/img/cmd-1.png)
+
+Assuming you followed this guide before, navigate to the github directory you created to clone actual and then into the actual-server directory
+
+    cd github\actual-server
+
+![](/img/cmd-26.png)
+
+We now need to clone the latest changes made to the actual-server repo, to do this, run the following command from your command prompt
+
+    git pull origin master
+
+![](/img/cmd-25.png)
+
+Once that is done, run the deployment command to push your changes to fly.
 
     flyctl deploy.
+
+Once that is complete, [delete your browsing history](https://www.howtogeek.com/304218/how-to-clear-your-history-in-any-browser/) and web files.
+
+Load up your budget and if required [restore your backup](http://www.codenameowl.com/2022/06/deploying-actual-budget-to-fly.io/#importing-data-into-actual) and that is Actual Server updated.

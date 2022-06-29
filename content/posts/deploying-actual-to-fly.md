@@ -246,6 +246,8 @@ When complete you should see something like this
 
 ## Persisting the data in Fly
 
+**WARNING:** If you decide to run this step at a later point, backup your budget first, performing this step on an active budget will destroy your data and a backup/restore will be required. 
+
 When we update Actual, if we don't persist the data it will be erased each time we come to update.
 
 Run the following command 

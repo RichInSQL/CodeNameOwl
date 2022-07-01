@@ -324,6 +324,8 @@ Actual is now up and running. Congratulations
 
 ## Exporting Data From Actual
 
+**Note** this only applies to Actual Web
+
 You can export your data from Actual at any time, to do this, login to your budget and click the three dots
 
 ![](/img/actual-config-4.png)
